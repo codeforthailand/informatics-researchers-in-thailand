@@ -34,6 +34,8 @@
 | Rachata Ausavarungnirun | KMUTNB-TGGS |
 
 ## Bioinformatics & Computational Biology
+|  Name | Affiliation  | 
+|---|---|
 | Sakda Khoomrung | Mahidol Univ, Siriraj Hospital|
 | Naravut Suvannang | Mahidol Univ, Rama Hospital |
 | Thanyada Rungrotmongkol | Chulalongkorn University |

@@ -31,7 +31,7 @@ database:
       gscholar: https://scholar.google.com/citations?hl=en&user=MwnBkgcAAAAJ
   - name: Peerapon Vateekul
     affiliation: 
-      - Chulalongkorn University (test)
+      - Chulalongkorn University
     urls:
       webpage: https://www.cp.eng.chula.ac.th/~peerapon/
       gscholar: https://scholar.google.com/citations?hl=en&user=0mFI2A0AAAAJ

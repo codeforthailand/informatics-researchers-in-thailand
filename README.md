@@ -4,65 +4,11 @@
 
 
 ## Database Systems, Data Engineering, Data Mining
-|  Name | Affiliation  | 
-|---|---|
-| Yi Nutanong  | VISTEC  |
-| Juggapong Natwichai | Chiang Mai U |
-| Thanawin Rakthanmanon | Kasetsasrt University |
-| Yodsawalai Chodpathumwan | KMUTNB-TGGS |
-| Kanat Tangwongsan | Mahidol University IC |
-| Peerapon Vateekul | Chulalongkorn Univ |
-
-## Machine Learning Algorithms, Applied ML Research
-|  Name | Affiliation  | 
-|---|---|
-| Ekapol Chuangsuwanich | Chulalongkorn Univ |
-| Nat Balm Dilokthanakul | VISTEC |
-| Krikamol Muandet | MPI |
-| Wittawat Nuke Jitkrittum | MPI |
-| Te Rutherford | Chulalongkorn Univ |
-| Kwanchai Eurviriyanukul | RMUT Lanna |
-| Supasorn Aek Suwajanakorn | VISTEC |
-| Patsorn Sangkloy | Georgia Tech |
-| Kwanchiva Thangthai | NECTEC |
-| Charin Polpanumas | Central Group |
-| Theerawit Wilaiprasitporn | VISTEC |
-
-## Computer Architecture
-|  Name | Affiliation  | 
-|---|---|
-| Rachata Ausavarungnirun | KMUTNB-TGGS |
-
-## Bioinformatics & Computational Biology
-|  Name | Affiliation  | 
-|---|---|
-| Sakda Khoomrung | Mahidol Univ, Siriraj Hospital|
-| Naravut Suvannang | Mahidol Univ, Rama Hospital |
-| Thanyada Rungrotmongkol | Chulalongkorn University |
-
-## Theory
-|  Name | Affiliation  | 
-|---|---|
-| Jittat Fakcharoenphol | Kasetsart University |
-| Bundit Laekhanukit | Shanghai University of Finance and Economics | 
-| Danupon Nanongkai | KTH Royal Institute of Tech |
-| Pattara Sukprasert | University of Maryland |
-
-## Quantum Computing
-|  Name | Affiliation  | 
-|---|---|
-| Jirawat Tangpanitanon | National University of Singapore |
-
-## Robotics
-|  Name | Affiliation  | 
-|---|---|
-| Poramate Manoonpong | VISTEC |
-
-
-## Todo:
-- find personal pages of these researchers
-
-## Acknowledgements
-- A.Yi for staring compiling the list.
-
-[original-post]: https://www.facebook.com/groups/2237074593042071/permalink/2400818480001014/
+|Name|Affiliation|Links|
+|---|---|---|
+|Sarana Nutanong|VISTEC|[![](https://img.shields.io/badge/-Web-green)](https://www.vistec.ac.th/academic/faculty_detail.php?school=IST&id=55) [![](https://img.shields.io/badge/-Google Scholar-green)](https://scholar.google.de/citations?hl=en&user=fEPAC_AAAAAJ&view_op=list_works)|
+|Juggapong Natwichai|Chiang Mai University|[![](https://img.shields.io/badge/-Web-green)](https://cpe.eng.cmu.ac.th/2013/academicview-english.php?academiceng_id=18) [![](https://img.shields.io/badge/-Google Scholar-green)](http://scholar.google.co.th/citations?user=q0ex--QAAAAJ&hl=th)|
+|Thanawin Rakthanmanon|Kasetsasrt University|[![](https://img.shields.io/badge/-Web-green)](https://www.cpe.ku.ac.th/~fengtwr) [![](https://img.shields.io/badge/-Google Scholar-green)](https://scholar.google.de/citations?hl=en&user=zJrE6nkAAAAJ)|
+|Yodsawalai Chodpathumwan|KMUTNB (Thai-German Garduate School of Engineering)|[![](https://img.shields.io/badge/-Web-green)](https://tggs.kmutnb.ac.th/?page_id=2947) [![](https://img.shields.io/badge/-Google Scholar-green)](https://scholar.google.de/citations?user=4K13tqIAAAAJ&hl=en&oi=ao)|
+|Kanat Tangwongsan|Mahidol University (International College)|[![](https://img.shields.io/badge/-Web-green)](http://www.philinelabs.net/~ktangwon/) [![](https://img.shields.io/badge/-Google Scholar-green)](https://scholar.google.com/citations?hl=en&user=MwnBkgcAAAAJ)|
+|Peerapon Vateekul|Chulalongkorn University|[![](https://img.shields.io/badge/-Web-green)](https://www.cp.eng.chula.ac.th/~peerapon/) [![](https://img.shields.io/badge/-Google Scholar-green)](https://scholar.google.com/citations?hl=en&user=0mFI2A0AAAAJ)|

@@ -1,0 +1,45 @@
+database:
+  - name: Sarana Nutanong
+    affiliation: 
+      - VISTEC
+    urls:
+      webpage: https://www.vistec.ac.th/academic/faculty_detail.php?school=IST&id=55
+      gscholar: https://scholar.google.de/citations?hl=en&user=fEPAC_AAAAAJ&view_op=list_works
+  - name: Juggapong Natwichai
+    affiliation: 
+      - Chiang Mai University
+    urls:
+      webpage: https://cpe.eng.cmu.ac.th/2013/academicview-english.php?academiceng_id=18
+      gscholar: http://scholar.google.co.th/citations?user=q0ex--QAAAAJ&hl=th
+  - name: Thanawin Rakthanmanon
+    affiliation: 
+      - Kasetsasrt University
+    urls:
+      webpage: https://www.cpe.ku.ac.th/~fengtwr
+      gscholar: https://scholar.google.de/citations?hl=en&user=zJrE6nkAAAAJ
+  - name: Yodsawalai Chodpathumwan
+    affiliation: 
+      - KMUTNB (Thai-German Garduate School of Engineering)
+    urls:
+      webpage: https://tggs.kmutnb.ac.th/?page_id=2947
+      gscholar: https://scholar.google.de/citations?user=4K13tqIAAAAJ&hl=en&oi=ao
+  - name: Kanat Tangwongsan
+    affiliation: 
+      - Mahidol University (International College)
+    urls:
+      webpage: http://www.philinelabs.net/~ktangwon/
+      gscholar: https://scholar.google.com/citations?hl=en&user=MwnBkgcAAAAJ
+  - name: Peerapon Vateekul
+    affiliation: 
+      - Chulalongkorn University
+    urls:
+      webpage: https://www.cp.eng.chula.ac.th/~peerapon/
+      gscholar: https://scholar.google.com/citations?hl=en&user=0mFI2A0AAAAJ
+
+
+  # - name: 
+  #   affiliation: 
+  #     - 
+  #   urls:
+  #     webpage: 
+  #     gscholar: 

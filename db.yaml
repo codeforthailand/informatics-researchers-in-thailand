@@ -1,75 +1,114 @@
 database:
   - name: Sarana Nutanong
-    affiliation: 
+    affiliation:
       - VISTEC
     urls:
       webpage: https://www.vistec.ac.th/academic/faculty_detail.php?school=IST&id=55
       gscholar: https://scholar.google.de/citations?hl=en&user=fEPAC_AAAAAJ&view_op=list_works
   - name: Juggapong Natwichai
-    affiliation: 
+    affiliation:
       - Chiang Mai University
     urls:
       webpage: https://cpe.eng.cmu.ac.th/2013/academicview-english.php?academiceng_id=18
       gscholar: http://scholar.google.co.th/citations?user=q0ex--QAAAAJ&hl=th
   - name: Thanawin Rakthanmanon
-    affiliation: 
+    affiliation:
       - Kasetsasrt University
     urls:
       webpage: https://www.cpe.ku.ac.th/~fengtwr
       gscholar: https://scholar.google.de/citations?hl=en&user=zJrE6nkAAAAJ
   - name: Yodsawalai Chodpathumwan
-    affiliation: 
+    affiliation:
       - KMUTNB (Thai-German Garduate School of Engineering)
     urls:
       webpage: https://tggs.kmutnb.ac.th/?page_id=2947
       gscholar: https://scholar.google.de/citations?user=4K13tqIAAAAJ&hl=en&oi=ao
   - name: Kanat Tangwongsan
-    affiliation: 
+    affiliation:
       - Mahidol University (International College)
     urls:
       webpage: http://www.philinelabs.net/~ktangwon/
       gscholar: https://scholar.google.com/citations?hl=en&user=MwnBkgcAAAAJ
   - name: Peerapon Vateekul
-    affiliation: 
+    affiliation:
       - Chulalongkorn University
     urls:
       webpage: https://www.cp.eng.chula.ac.th/~peerapon/
       gscholar: https://scholar.google.com/citations?hl=en&user=0mFI2A0AAAAJ
 ml:
   - name: Ekapol Chuangsuwanich
-    affiliation: 
+    affiliation:
       - Chulalongkorn University
     urls:
       webpage: http://scholar.google.co.th/citations?user=ST-jPeYAAAAJ&hl=en
       gscholar: https://ekapolc.github.io
   - name: Nat Dilokthanakul
-    affiliation: 
+    affiliation:
       - VISTEC
     urls:
       webpage: https://www.doc.ic.ac.uk/~nd1214/
       gscholar: https://scholar.google.co.uk/citations?user=ouce6eWAbloC&hl=en
   - name: Krikamol Muandet
-    affiliation: 
+    affiliation:
       - Max Planck Institute for Intelligent Systems
     urls:
       webpage: http://www.krikamol.org
       gscholar: https://scholar.google.com/citations?user=E2z5uYsAAAAJ&hl=en
   - name: Wittawat Jitkrittum
-    affiliation: 
+    affiliation:
       - Max Planck Institute for Intelligent Systems
     urls:
       webpage: http://wittawat.com
       gscholar: https://scholar.google.co.th/citations?user=D7h5R5kAAAAJ&hl=en
   - name: Attapol Rutherford
-    affiliation: 
+    affiliation:
       - Chulalongkorn University
     urls:
       webpage: https://attapol.github.io
       gscholar: https://scholar.google.co.th/citations?user=7SsloT4AAAAJ&hl=en
+  - name: Kwanchai Eurviriyanukul
+    affiliation:
+      - Rajamangala University of Technology, Lanna
+    urls:
+      gscholar: https://scholar.google.co.th/citations?user=Y4LtgNMAAAAJ&hl=en
+  - name: Supasorn Suwajanakorn
+    affiliation:
+      - VISTEC
+    urls:
+      webpage: https://www.supasorn.com
+      gscholar: https://scholar.google.com/citations?user=DTNZMGAAAAAJ&hl=en
+  - name: Patsorn Sangkloy
+    affiliation:
+      - Georgia Institute of Technology
+    urls:
+      webpage: http://www.cc.gatech.edu/~psangklo/
+      gscholar: https://scholar.google.com/citations?user=w129gS8AAAAJ&hl=en
+  - name: Kwanchiva Thangthai
+    affiliation:
+      - NECTEC
+    urls:
+      webpage: https://www.nectec.or.th/hccru/staff/view/51
+      gscholar: https://scholar.google.com.hk/citations?user=cnN-NYwAAAAJ
+  - name: Charin Polpanumas
+    affiliation:
+      - Central Group
+    urls:
+      webpage: https://th.linkedin.com/in/cstorm125
+  - name: Charin Polpanumas
+    affiliation:
+      - Central Group
+    urls:
+      webpage: https://th.linkedin.com/in/cstorm125
+  - name: Theerawit Wilaiprasitporn
+    affiliation:
+      - VISTEC
+    urls:
+      webpage: https://www.vistec.ac.th/frontier_research/research_profile.php?u=U040
+      gscholar: https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=en
 
 
   # - name: 
-  #   affiliation: 
+  #   affiliation:
   #     - 
   #   urls:
   #     webpage: 

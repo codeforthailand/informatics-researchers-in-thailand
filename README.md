@@ -28,3 +28,17 @@
 |Charin Polpanumas|Central Group|[![](https://img.shields.io/badge/-Web-green)](https://th.linkedin.com/in/cstorm125)|
 |Charin Polpanumas|Central Group|[![](https://img.shields.io/badge/-Web-green)](https://th.linkedin.com/in/cstorm125)|
 |Theerawit Wilaiprasitporn|VISTEC|[![](https://img.shields.io/badge/-Web-green)](https://www.vistec.ac.th/frontier_research/research_profile.php?u=U040) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=en)|
+
+## Computer Architecture
+|Name|Affiliation|Links|
+|---|---|---|
+|Rachata Ausavarungnirun|KMUTNB (Thai-German Garduate School of Engineering)|[![](https://img.shields.io/badge/-Web-green)](https://rausavar.github.io) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.com/citations?user=fIUdEFwAAAAJ&hl=en)|
+
+
+## Bioinformatics & Computational Biology
+
+## Theory
+
+## Quantum Computing
+
+## Robotics

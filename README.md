@@ -12,3 +12,12 @@
 |Yodsawalai Chodpathumwan|KMUTNB (Thai-German Garduate School of Engineering)|[![](https://img.shields.io/badge/-Web-green)](https://tggs.kmutnb.ac.th/?page_id=2947) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.de/citations?user=4K13tqIAAAAJ&hl=en&oi=ao)|
 |Kanat Tangwongsan|Mahidol University (International College)|[![](https://img.shields.io/badge/-Web-green)](http://www.philinelabs.net/~ktangwon/) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.com/citations?hl=en&user=MwnBkgcAAAAJ)|
 |Peerapon Vateekul|Chulalongkorn University|[![](https://img.shields.io/badge/-Web-green)](https://www.cp.eng.chula.ac.th/~peerapon/) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.com/citations?hl=en&user=0mFI2A0AAAAJ)|
+
+## Machine Learning Algorithms, Applied ML Research
+|Name|Affiliation|Links|
+|---|---|---|
+|Ekapol Chuangsuwanich|Chulalongkorn University|[![](https://img.shields.io/badge/-Web-green)](http://scholar.google.co.th/citations?user=ST-jPeYAAAAJ&hl=en) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://ekapolc.github.io)|
+|Nat Dilokthanakul|VISTEC|[![](https://img.shields.io/badge/-Web-green)](https://www.doc.ic.ac.uk/~nd1214/) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.co.uk/citations?user=ouce6eWAbloC&hl=en)|
+|Krikamol Muandet|Max Planck Institute for Intelligent Systems|[![](https://img.shields.io/badge/-Web-green)](http://www.krikamol.org) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.com/citations?user=E2z5uYsAAAAJ&hl=en)|
+|Wittawat Jitkrittum|Max Planck Institute for Intelligent Systems|[![](https://img.shields.io/badge/-Web-green)](http://wittawat.com) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.co.th/citations?user=D7h5R5kAAAAJ&hl=en)|
+|Attapol Rutherford|Chulalongkorn University|[![](https://img.shields.io/badge/-Web-green)](https://attapol.github.io) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.co.th/citations?user=7SsloT4AAAAJ&hl=en)|

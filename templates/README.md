@@ -1,5 +1,7 @@
 # อาจารย์และนักวิจัยในไทยที่ทำงานวิจัยเกี่ยวกับคอมพิวเตอร์และสาขาที่เกี่ยวข้อง (Informatics Reseachers in Thailand)
 
+![](https://travis-ci.org/codeforthailand/informatics-researchers-in-thailand.svg?branch=master)
+
 ข้อมูลด้านล่างได้นำมาจาก [โพสของ อ.สรณะ][original-post].
 
 ## Database Systems, Data Engineering, Data Mining

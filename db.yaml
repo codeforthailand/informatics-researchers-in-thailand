@@ -101,6 +101,12 @@ ml:
     urls:
       webpage: https://www.vistec.ac.th/frontier_research/research_profile.php?u=U040
       gscholar: https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=en
+  - name: Panupong Pasupat
+    affiliation:
+      -  Stanford University
+    urls:
+      webpage: https://ppasupat.github.io
+      gscholar: https://scholar.google.com/citations?user=BqKXIA8AAAAJ
 
 computer_architecture:
   - name: Rachata Ausavarungnirun
@@ -152,6 +158,12 @@ theory:
   - name: Pattara Sukprasert
     affiliation:
       - Northwestern University
+  - name: Pasin Manurangsi
+    affiliation:
+      - Google AI
+    urls:
+      webpage: https://people.eecs.berkeley.edu/~pasin/
+      gscholar: https://scholar.google.com/citations?user=35hM-PkAAAAJ&hl=en
 
 quantum_computing:
   - name: Jirawat Tangpanitanon

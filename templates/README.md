@@ -8,3 +8,15 @@
 
 ## Machine Learning Algorithms, Applied ML Research
 ::table::db.yaml->ml
+
+## Computer Architecture
+::table::db.yaml->computer_architecture
+
+
+## Bioinformatics & Computational Biology
+
+## Theory
+
+## Quantum Computing
+
+## Robotics

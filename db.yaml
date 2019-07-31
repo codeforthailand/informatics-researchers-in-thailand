@@ -106,6 +106,33 @@ ml:
       webpage: https://www.vistec.ac.th/frontier_research/research_profile.php?u=U040
       gscholar: https://scholar.google.com/citations?user=U-L-iGIAAAAJ&hl=en
 
+computer_architecture:
+  - name: Rachata Ausavarungnirun
+    affiliation:
+      - KMUTNB (Thai-German Garduate School of Engineering)
+    urls:
+      webpage: https://rausavar.github.io
+      gscholar: https://scholar.google.com/citations?user=fIUdEFwAAAAJ&hl=en
+
+bioinformatics:
+  - name: Sakda Khoomrung
+    affiliation:
+      - Mahidol University
+      - Siriraj Hospital
+    urls:
+      gscholar: https://scholar.google.se/citations?user=s0BDG5IAAAAJ&hl=en
+  - name: Naravut Suvannang
+    affiliation:
+      - Mahidol University
+      - Rama Hospital
+    urls:
+      webpage: https://th-th.facebook.com/ZeroMTMU/
+  - name: Thanyada Rungrotmongkol
+    affiliation:
+      - Chulalongkorn University
+    urls:
+      webpage: http://www.bc.sc.chula.ac.th/11Thanyada.html
+      gscholar: https://scholar.google.com/citations?hl=en&user=csS0huAAAAAJ
 
   # - name: 
   #   affiliation:

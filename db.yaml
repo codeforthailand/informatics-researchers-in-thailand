@@ -35,6 +35,7 @@ database:
     urls:
       webpage: https://www.cp.eng.chula.ac.th/~peerapon/
       gscholar: https://scholar.google.com/citations?hl=en&user=0mFI2A0AAAAJ
+
 ml:
   - name: Ekapol Chuangsuwanich
     affiliation:
@@ -94,11 +95,6 @@ ml:
       - Central Group
     urls:
       webpage: https://th.linkedin.com/in/cstorm125
-  - name: Charin Polpanumas
-    affiliation:
-      - Central Group
-    urls:
-      webpage: https://th.linkedin.com/in/cstorm125
   - name: Theerawit Wilaiprasitporn
     affiliation:
       - VISTEC
@@ -134,9 +130,41 @@ bioinformatics:
       webpage: http://www.bc.sc.chula.ac.th/11Thanyada.html
       gscholar: https://scholar.google.com/citations?hl=en&user=csS0huAAAAAJ
 
-  # - name: 
-  #   affiliation:
-  #     - 
-  #   urls:
-  #     webpage: 
-  #     gscholar: 
+theory:
+  - name: Jittat Fakcharoenphol
+    affiliation:
+      - Kasetsart University
+    urls:
+      webpage: https://theory.cpe.ku.ac.th/~jittat/wiki
+      gscholar: https://scholar.google.com/citations?user=hv7txqEAAAAJ&hl=en
+  - name: Bundit Laekhanukit
+    affiliation:
+      - Shanghai University of Finance and Economics
+    urls:
+      webpage: http://itcs.shufe.edu.cn/~blaekh/
+      gscholar: https://scholar.google.co.th/citations?user=vmemchMAAAAJ&hl=th
+  - name: Danupon Nanongkai
+    affiliation:
+      - KTH Royal Institute of Technology
+    urls:
+      webpage: https://www.csc.kth.se/~danupon/
+      gscholar: https://scholar.google.com/citations?user=ofNbQXAAAAAJ&hl=en
+  - name: Pattara Sukprasert
+    affiliation:
+      - Northwestern University
+
+quantum_computing:
+  - name: Jirawat Tangpanitanon
+    affiliation:
+      - National University of Singapore
+    urls:
+      webpage: https://www.quantumlah.org/people/profile/jirawat
+      gscholar: https://scholar.google.com/citations?hl=en&user=rzJFbfsAAAAJ
+
+robotics:
+  - name: Poramate Manoonpong
+    affiliation:
+      - VISTEC
+    urls:
+      webpage: https://www.manoonpong.com
+      gscholar: https://scholar.google.com/citations?hl=en&user=ZQ93_SQAAAAJ

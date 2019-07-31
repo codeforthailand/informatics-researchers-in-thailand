@@ -2,7 +2,6 @@
 
 ข้อมูลด้านล่างได้นำมาจาก [โพสของ อ.สรณะ][original-post].
 
-
 ## Database Systems, Data Engineering, Data Mining
 ::table::db.yaml->database
 
@@ -12,11 +11,19 @@
 ## Computer Architecture
 ::table::db.yaml->computer_architecture
 
-
 ## Bioinformatics & Computational Biology
+::table::db.yaml->bioinformatics
 
 ## Theory
+::table::db.yaml->theory
 
 ## Quantum Computing
+::table::db.yaml->quantum_computing
 
 ## Robotics
+::table::db.yaml->robotics
+
+## Acknowledgements
+- A.Yi for staring compiling the list.
+
+[original-post]: https://www.facebook.com/groups/2237074593042071/permalink/2400818480001014/

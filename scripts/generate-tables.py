@@ -10,7 +10,7 @@ Table = collections.namedtuple("Table", ["pos", "src", "node"])
 URL_ICONS = {
     'webpage': '[![](https://img.shields.io/badge/-Web-green)](%s)',
     'facebook': '[![](https://img.shields.io/badge/-Facebook-blue)](%s)',
-    'gscholar': '[![](https://img.shields.io/badge/-Google Scholar-green)](%s)',
+    'gscholar': '[![](https://img.shields.io/badge/-Google%20Scholar-green)](%s)',
 }
 
 def table_row(cols):

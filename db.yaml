@@ -155,9 +155,6 @@ theory:
     urls:
       webpage: https://www.csc.kth.se/~danupon/
       gscholar: https://scholar.google.com/citations?user=ofNbQXAAAAAJ&hl=en
-  - name: Pattara Sukprasert
-    affiliation:
-      - Northwestern University
   - name: Pasin Manurangsi
     affiliation:
       - Google AI

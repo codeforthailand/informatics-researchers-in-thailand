@@ -35,6 +35,37 @@ database:
     urls:
       webpage: https://www.cp.eng.chula.ac.th/~peerapon/
       gscholar: https://scholar.google.com/citations?hl=en&user=0mFI2A0AAAAJ
+ml:
+  - name: Ekapol Chuangsuwanich
+    affiliation: 
+      - Chulalongkorn University
+    urls:
+      webpage: http://scholar.google.co.th/citations?user=ST-jPeYAAAAJ&hl=en
+      gscholar: https://ekapolc.github.io
+  - name: Nat Dilokthanakul
+    affiliation: 
+      - VISTEC
+    urls:
+      webpage: https://www.doc.ic.ac.uk/~nd1214/
+      gscholar: https://scholar.google.co.uk/citations?user=ouce6eWAbloC&hl=en
+  - name: Krikamol Muandet
+    affiliation: 
+      - Max Planck Institute for Intelligent Systems
+    urls:
+      webpage: http://www.krikamol.org
+      gscholar: https://scholar.google.com/citations?user=E2z5uYsAAAAJ&hl=en
+  - name: Wittawat Jitkrittum
+    affiliation: 
+      - Max Planck Institute for Intelligent Systems
+    urls:
+      webpage: http://wittawat.com
+      gscholar: https://scholar.google.co.th/citations?user=D7h5R5kAAAAJ&hl=en
+  - name: Attapol Rutherford
+    affiliation: 
+      - Chulalongkorn University
+    urls:
+      webpage: https://attapol.github.io
+      gscholar: https://scholar.google.co.th/citations?user=7SsloT4AAAAJ&hl=en
 
 
   # - name: 

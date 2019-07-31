@@ -5,3 +5,6 @@
 
 ## Database Systems, Data Engineering, Data Mining
 ::table::db.yaml->database
+
+## Machine Learning Algorithms, Applied ML Research
+::table::db.yaml->ml

@@ -11,8 +11,8 @@
     </defs>
     <g id="webpage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Rectangle" fill="url(#linearGradient-1)" x="1" y="1" width="22" height="22" rx="5"></rect>
-        <text id="link---FontAwesome" font-family="FontAwesome" font-size="14" font-weight="normal" fill="#FFFFFF">
-            <tspan x="5" y="17"></tspan>
+        <text id="link---FontAwesome" font-family="FontAwesome" font-size="13" font-weight="normal" fill="#FFFFFF">
+            <tspan x="6" y="17"></tspan>
         </text>
     </g>
 </svg>

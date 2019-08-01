@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>webpage</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="26.7419764%" x2="50%" y2="99.7563738%" id="linearGradient-1">
+            <stop stop-color="#7B7B7B" offset="0%"></stop>
+            <stop stop-color="#4E4E4E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="webpage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="1" y="1" width="22" height="22" rx="5"></rect>
+        <text id="link---FontAwesome" font-family="FontAwesome" font-size="14" font-weight="normal" fill="#FFFFFF">
+            <tspan x="5" y="17"></tspan>
+        </text>
+    </g>
+</svg>

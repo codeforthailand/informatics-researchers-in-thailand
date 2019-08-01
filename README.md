@@ -60,6 +60,11 @@
 |---|---|---|
 |Poramate Manoonpong|VISTEC|[![](https://img.shields.io/badge/-Web-green)](https://www.manoonpong.com) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.com/citations?hl=en&user=ZQ93_SQAAAAJ)|
 
+## Human-Computer Interaction & Visualization
+|Name|Affiliation|Links|
+|---|---|---|
+|Puripant Ruchikachorn|Chulalongkorn University, Boonmee Lab|[![](https://img.shields.io/badge/-Web-green)](http://puripant.ruchikachorn.com) [![](https://img.shields.io/badge/-Google%20Scholar-green)](https://scholar.google.de/citations?user=O_6ZsWoAAAAJ&hl=en&oi=ao)|
+
 ## Acknowledgements
 - A.Yi for staring compiling the list.
 

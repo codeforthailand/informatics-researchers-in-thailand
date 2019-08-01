@@ -25,6 +25,9 @@
 ## Robotics
 ::table::db.yaml->robotics
 
+## Human-Computer Interaction & Visualization
+::table::db.yaml->hci
+
 ## Acknowledgements
 - A.Yi for staring compiling the list.
 

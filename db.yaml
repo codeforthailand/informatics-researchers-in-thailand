@@ -177,3 +177,12 @@ robotics:
     urls:
       webpage: https://www.manoonpong.com
       gscholar: https://scholar.google.com/citations?hl=en&user=ZQ93_SQAAAAJ
+
+hci:
+  - name: Puripant Ruchikachorn
+    affiliation:
+      - Chulalongkorn University
+      - Boonmee Lab
+    urls:
+      webpage: http://puripant.ruchikachorn.com
+      gscholar: https://scholar.google.de/citations?user=O_6ZsWoAAAAJ&hl=en&oi=ao
